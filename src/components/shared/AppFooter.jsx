@@ -3,7 +3,7 @@ import {
 	FiTwitter,
 	FiLinkedin,
 	FiGlobe,
-	FiYoutube,
+	FiYoutube
 } from 'react-icons/fi';
 import AppFooterCopyright from './AppFooterCopyright';
 
